@@ -14,6 +14,7 @@ description: "Detailed conceptual and implementation-based solution for Maven co
 **Syllabus Coverage:**  
 Maven lifecycle phases, `compile`, `test`, unit testing, Surefire plugin, automated build failure, and CI/CD testing.
 
+---
 
 # Question 4
 
